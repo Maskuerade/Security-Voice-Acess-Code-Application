@@ -90,9 +90,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
       </tr>
  </table>
 
-
-
-## Contact
-For questions or suggestions, please contact the project maintainer at [your-email@example.com]. 
-
----
